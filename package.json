@@ -1,0 +1,11 @@
+{
+	"name": "noclist-homework",
+	"version": "1.0.0",
+	"description": "Retrieve the NOC list",
+	"author": "dev",
+	"license": "MIT",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
